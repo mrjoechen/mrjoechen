@@ -2,7 +2,7 @@
 
 My name is ChenQiao, an Android software engineer.
 
-- 🔭 I’m currently working on ClassIn[http://www.eeo.cn/cn/index.html]
+- 🔭 I’m currently working on [ClassIn](http://www.eeo.cn/cn/index.html)
 - 📫 How to reach me: 
   - Email: chenqiao1104@gmail.com
 
