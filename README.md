@@ -1,8 +1,11 @@
 ### Hi everyone 👋
 
-My name is ChenQiao, an Android software engineer.
+My name is ChenQiao, an Android software engineer. 
 
-- 🔭 I’m currently working on [ClassIn](http://www.eeo.cn/cn/index.html)
+Skill list：Java，Android，Kotlin
+
+- 🔭 I’m currently working on [ClassIn](http://www.eeo.cn/cn/index.html). 
+[Google Play](https://play.google.com/store/apps/details?id=cn.eeo.classin&hl=zh-CN) [Huawei AppStore](https://appgallery.huawei.com/#/app/C100317109)
 - 📫 How to reach me: 
   - Email: chenqiao1104@gmail.com
 
