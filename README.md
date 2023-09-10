@@ -6,6 +6,7 @@ Skill list：Java，Android，Kotlin
 
 - 🔭 I’m currently working on [ClassIn](http://www.eeo.cn/cn/index.html). 
 [Google Play](https://play.google.com/store/apps/details?id=cn.eeo.classin&hl=zh-CN) [Huawei AppStore](https://appgallery.huawei.com/#/app/C100317109)
+- Personal works [Showcase app](https://play.google.com/store/apps/details?id=com.alpha.showcase)
 - 📫 How to reach me: 
   - Email: chenqiao1104@gmail.com
 
