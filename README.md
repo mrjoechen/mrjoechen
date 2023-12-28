@@ -8,7 +8,7 @@ Skill list：Java，Android，Kotlin
 [Google Play](https://play.google.com/store/apps/details?id=cn.eeo.classin&hl=zh-CN) [Huawei AppStore](https://appgallery.huawei.com/#/app/C100317109)
 - Personal works [Showcase app](https://play.google.com/store/apps/details?id=com.alpha.showcase)
 - 📫 How to reach me: 
-  - Email: chenqiao1104@gmail.com
+  - Email: mrjctech@gmail.com
 
 <!--
 **mrjoechen/mrjoechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
