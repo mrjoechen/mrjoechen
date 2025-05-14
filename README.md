@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-My name is ChenQiao, an Android software engineer. 
+I'm Joe, an Android software engineer. 
 
 Skill list：Java，Android，Kotlin
 
